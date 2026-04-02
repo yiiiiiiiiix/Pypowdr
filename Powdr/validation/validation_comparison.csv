@@ -1,0 +1,57 @@
+sample_id,phase,known_wt%,fitted_wt%,error_wt%
+Mix1,Quartz,0.0,0.22,0.22
+Mix1,K-feldspar,4.0,3.48,-0.52
+Mix1,Plagioclase,20.0,18.92,-1.08
+Mix1,Kaolinite,12.0,11.43,-0.57
+Mix1,Smectite (Di),36.0,40.21,4.21
+Mix1,Illite,8.0,6.1,-1.9
+Mix1,Corundum,20.0,19.64,-0.36
+Mix2,Quartz,4.0,4.57,0.57
+Mix2,K-feldspar,8.0,7.96,-0.04
+Mix2,Plagioclase,36.0,34.32,-1.68
+Mix2,Kaolinite,20.0,19.99,-0.01
+Mix2,Smectite (Di),0.0,3.1,3.1
+Mix2,Illite,12.0,9.94,-2.06
+Mix2,Corundum,20.0,20.12,0.12
+Mix3,Quartz,8.0,7.74,-0.26
+Mix3,K-feldspar,12.0,11.24,-0.76
+Mix3,Plagioclase,0.0,0.0,0.0
+Mix3,Kaolinite,36.0,38.0,2.0
+Mix3,Smectite (Di),4.0,3.66,-0.34
+Mix3,Illite,20.0,19.16,-0.84
+Mix3,Corundum,20.0,20.21,0.21
+Mix4,Quartz,12.0,12.1,0.1
+Mix4,K-feldspar,20.0,18.96,-1.04
+Mix4,Plagioclase,4.0,3.8,-0.2
+Mix4,Kaolinite,0.0,0.0,0.0
+Mix4,Smectite (Di),8.0,10.05,2.05
+Mix4,Illite,36.0,35.68,-0.32
+Mix4,Corundum,20.0,19.4,-0.6
+Mix5,Quartz,20.0,20.6,0.6
+Mix5,K-feldspar,36.0,34.4,-1.6
+Mix5,Plagioclase,8.0,8.09,0.09
+Mix5,Kaolinite,4.0,4.38,0.38
+Mix5,Smectite (Di),12.0,11.29,-0.71
+Mix5,Illite,0.0,0.59,0.59
+Mix5,Corundum,20.0,20.64,0.64
+Mix6,Quartz,36.0,36.35,0.35
+Mix6,K-feldspar,0.0,0.0,0.0
+Mix6,Plagioclase,12.0,11.15,-0.85
+Mix6,Kaolinite,8.0,7.78,-0.22
+Mix6,Smectite (Di),20.0,23.72,3.72
+Mix6,Illite,4.0,0.0,-4.0
+Mix6,Corundum,20.0,21.0,1.0
+Mix7,Quartz,0.0,0.72,0.72
+Mix7,K-feldspar,8.0,7.62,-0.38
+Mix7,Plagioclase,40.0,38.29,-1.71
+Mix7,Kaolinite,4.0,3.74,-0.26
+Mix7,Smectite (Di),12.0,15.27,3.27
+Mix7,Illite,16.0,14.42,-1.58
+Mix7,Corundum,20.0,19.94,-0.06
+Mix8,Quartz,8.0,7.81,-0.19
+Mix8,K-feldspar,4.0,3.65,-0.35
+Mix8,Plagioclase,4.0,3.77,-0.23
+Mix8,Kaolinite,0.0,0.0,0.0
+Mix8,Smectite (Di),24.0,27.56,3.56
+Mix8,Illite,40.0,38.05,-1.95
+Mix8,Corundum,20.0,19.16,-0.84
